@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1 ,
+        "name" : "B. Fatima" ,
+        "date" : "12/07/2024" ,
+        "star" : 5 ,
+        "Review" : "Ma première expérience avec AutoLibre a été exceptionnelle. Dès l'accueil, le personnel a été chaleureux et professionnel. La voiture était propre et en excellent état, ce qui a rendu notre voyage à Marrakech encore plus agréable. Je reviendrai sans hésiter !"
+    },
+    {
+        "id": 2 ,
+        "name" : "K. Youssef " ,
+        "date" : "12/06/2024" ,
+        "star" : 4 ,
+        "Review" : "J'avais besoin d'une voiture de dernière minute pour un déplacement imprévu, et AutoLibre a répondu parfaitement à mes attentes. Le processus de réservation a été rapide et simple, et la voiture a dépassé mes attentes. Une agence de confiance à recommander !"
+    },
+    {
+        "id": 3 ,
+        "name" : "L. Amine" ,
+        "date" : "05/08/2024" ,
+        "star" : 5 ,
+        "Review" : "Pour mon séjour à Marrakech, j'ai choisi AutoLibre sur les conseils d'un ami, et je ne regrette pas du tout ! Le véhicule était en parfait état, et le service client a été impeccable. Je me suis senti en sécurité tout au long du trajet. Je recommande cette agence les yeux fermés."
+    },
+    {
+        "id": 4 ,
+        "name" : "B. Nadia" ,
+        "date" : "12/05/2024" ,
+        "star" : 5 ,
+        "Review" : "AutoLibre m'a été recommandé par plusieurs collègues, et je comprends maintenant pourquoi. Le service est tout simplement excellent, avec une équipe disponible et à l'écoute. La voiture que j'ai louée était parfaitement entretenue et confortable. C'est sans doute la meilleure agence de location que j'ai utilisée jusqu'à présent."
+    },
+    {
+        "id": 5 ,
+        "name" : "B. Yassine" ,
+        "date" : "12/07/2024" ,
+        "star" : 5 ,
+        "Review" : "J'ai loué une voiture chez AutoLibre pour un week-end à Marrakech, et je n'aurais pas pu être plus satisfait. Le service client était excellent, la voiture était en parfait état, et les prix sont très compétitifs. Je recommande vivement cette agence !"
+    }
+]

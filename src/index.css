@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::selection{
+    background:#F2A819;
+    color:white ;
+}
+body::-webkit-scrollbar{
+    background-color: black;
+    width: 12px;
+    margin-right: 10px;
+}
+body::-webkit-scrollbar-thumb{
+    background-color: #F2A819;
+    width: 3px;
+    border-radius: 20px;
+}
+img {
+    pointer-events: none; /* Prevents interaction */
+    -webkit-user-drag: none; /* Disables dragging on WebKit browsers */
+    user-drag: none;
+    -webkit-touch-callout: none; /* Disables callouts (like copy) on iOS */
+    -webkit-user-select: none; /* Prevents text selection on WebKit browsers */
+    -moz-user-select: none; /* Prevents text selection on Firefox */
+    -ms-user-select: none; /* Prevents text selection on Internet Explorer/Edge */
+    user-select: none; /* Prevents text selection */
+}
+/**
+  * Basic
+  *
+  * @author jh3y - jheytompkins.com
+*/
+#nav-item .active {
+    color: black;
+    background-color: #ffffff ;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 20px;
+}
+.slick-slide>div{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+/* Custom styles for the previous arrow */
+.slick-prev:before {
+    color: #F2A819;}
+.slick-next:before {
+    color: #F2A819; }
+    /* Custom dropdown styles */
+select {
+    @apply bg-white; /* Background color when the select is not active */
+}
+
+/* Change the background color when an option is selected */
+select option:checked {
+    @apply bg-yellow-500 text-black; /* Replace with your desired colors */
+}
+
+/* Customizing the dropdown options background */
+select option {
+    background-color: white; /* Default background color for options */
+}
+
+/* Change the background color of options on hover or focus */
+select option:hover{
+    background-color: #F2A819;
+}
+select option:focus {
+    background-color: #F2A819; /* Replace with your desired hover color */
+}

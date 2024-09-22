@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Mercedes-AMG-Classe-G",
+      "price": 2500,
+      "brand": "./public/assets/amg.png",
+      "image": "./public/assets/Mercedes-C-G.png"
+    },
+    {
+      "id": 2,
+      "name": "Mercedes-AMG-Classe-A-Berline",
+      "price": 2100,
+      "brand": "./public/assets/amg.png",
+      "image": "./public/assets/Mercedes-C-A-B.png"
+    },
+    {
+      "id": 3,
+      "name": "Mercedes-AMG-Classe-A",
+      "price": 2100,
+      "brand": "./public/assets/amg.png",
+      "image": "./public/assets/Mercedes-C-A.png"
+    },
+    {
+        "id": 4,
+        "name": "Audi Q8 -(Modèle 2023)",
+        "price": 2350,
+        "brand": "./public/assets/audi.png",
+        "image": "./public/assets/Audi-Q8.png"
+    },
+    {
+        "id": 5,
+        "name": "Touareg -(Modèle 2022)",
+        "price": 2100,
+        "brand": "./public/assets/Volkswagen.png",
+        "image": "./public/assets/Touareg.png"
+    },
+    {
+        "id": 6,
+        "name": "Volkswagen T-roc -(M 2023)",
+        "price": 2100,
+        "brand": "./public/assets/Volkswagen.png",
+        "image": "./public/assets/troc.png"
+    },
+    {
+        "id": 7,
+        "name": "Porsche-Macan -(Modèle 2023)",
+        "price": 2200,
+        "brand": "./public/assets/porsche.png",
+        "image": "./public/assets/porsche-macan.png"
+    },
+    {
+        "id": 8,
+        "name": "Range-Rover-Sport-2020",
+        "price": 2600,
+        "brand": "./public/assets/land-rover.png",
+        "image": "./public/assets/range-sport.png"
+    },
+    {
+        "id": 9,
+        "name": "Range-Rover-Evoque 2019 ",
+        "price": 1700,
+        "brand": "./public/assets/land-rover.png",
+        "image": "./public/assets/range-evoque.png"
+    },
+    {
+        "id": 10,
+        "name": "Jeep-Grand-Cherokee",
+        "price": 1000,
+        "brand": "./public/assets/Jeep.png",
+        "image": "./public/assets/Jeep-Grand-Cherokee.png"
+    }
+  ]
+  
